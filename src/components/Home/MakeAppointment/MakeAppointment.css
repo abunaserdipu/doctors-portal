@@ -1,0 +1,16 @@
+.appointment-container{
+    padding-top: 30px;
+}
+.appointment-bg {
+  background: linear-gradient(rgba(58, 66, 86, 0.8), rgba(58, 66, 86, 0.8)),
+    url("../../../images/appointmentBg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 420px;
+}
+
+.appointment-bg img{
+height: 550px;
+transform: translateY(-130px)
+}
